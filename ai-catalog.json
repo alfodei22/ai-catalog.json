@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "name": "موقع المهندس والكاتب محمد الفودعي",
+  "description": "مدونة أدبية وهندسية تضم قصائد وشيلات ومقالات متنوعة.",
+  "url": "https://alfawadei.blogspot.com/",
+  "resources": [
+    {
+      "type": "feed",
+      "name": "خلاصة التدوينات (Atom/RSS)",
+      "url": "https://alfawadei.blogspot.com/feeds/posts/default?alt=json",
+      "format": "application/json"
+    },
+    {
+      "type": "sitemap",
+      "name": "خريطة الموقع XML",
+      "url": "https://alfawadei.blogspot.com/sitemap.xml",
+      "format": "application/xml"
+    }
+  ]
+}
